@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Game/Game.iml" filepath="$PROJECT_DIR$/Game/Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GameServerJava.iml" filepath="$PROJECT_DIR$/.idea/GameServerJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server/Server.iml" filepath="$PROJECT_DIR$/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UI Interface/UI Interface.iml" filepath="$PROJECT_DIR$/UI Interface/UI Interface.iml" />
+    </modules>
+  </component>
+</project>
